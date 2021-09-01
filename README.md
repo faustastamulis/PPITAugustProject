@@ -5,7 +5,7 @@ Hello this is our PPIT project for August 2021 in the module of Professional pra
 Group Members:
 
 Faustas Tamulis (G00373028)
-Garreth Ward ()
+Garreth Ward (G00374946)
 
 Supervisor:
 
